@@ -100,7 +100,7 @@ def login(admin_credentials=["0000020232", "120992", "@Automation-2"], account_n
 	return driver
 
 def generate_cert():
-	pass
+	print("in generate certificate")
 
 
 def main():
